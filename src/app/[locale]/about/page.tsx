@@ -3,8 +3,8 @@ import { LegalPage } from "@/components/legal-page";
 export default function AboutPage() {
   return (
     <LegalPage title="About">
-      <p>VV Ultimatum Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.</p>
-      <p>The layout, navigation, article cards, and detail format are reproduced from the target VV: ULTIMATUM wiki pages requested for this implementation.</p>
+      <p>ECC REDLINE Wiki is an independent fan-built guide hub covering vehicles, gameplay mechanics, tracks, tuning strategies, and essential game knowledge.</p>
+      <p>Our goal is to provide fast, reliable, and accessible documentation for racers and community members exploring futuristic high-speed racing.</p>
     </LegalPage>
   );
 }
