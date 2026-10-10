@@ -6,7 +6,15 @@
     "description": "Explore ECC REDLINE Wiki with vehicle guides, gameplay tips, racing strategies, updates, and community resources to master futuristic high-speed racing.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "comparison": "Comparison",
+    "characters": "Characters",
+    "controls": "Controls",
+    "news": "News",
+    "codes": "Codes"
+  },
   "home": {
     "meta": {
       "title": "ECC REDLINE Wiki — Vehicles, Tuning, Guides & Tier Lists",
@@ -423,13 +431,11 @@
       "secondary": "Watch Showcase"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
     "updated": "Updated",
     "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -452,12 +458,39 @@
     "playGame": "Watch Showcase",
     "officialDiscord": "Discord Community",
     "officialYoutube": "YouTube Channel",
-    "vvBuilder": "Vehicle Specs",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Vehicle Guides",
-    "bossGuides": "Racing Strategies",
-    "buildGuide": "Customization",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "mechanicsGuides": "Game Mechanics",
+    "charactersGuides": "Characters & Operators",
+    "controlsGuides": "Controls & Settings"
+  },
+  "guide": {
+    "overviewTitle": "ECC REDLINE Guides & Walkthroughs",
+    "overviewDescription": "Comprehensive beginner guides, download instructions, platform setup, and essential tips for ECC REDLINE."
+  },
+  "mechanics": {
+    "overviewTitle": "ECC REDLINE Gameplay Mechanics",
+    "overviewDescription": "In-depth breakdown of combat systems, battle royale survival, vehicle piloting, game modes, and weapon handling in ECC REDLINE."
+  },
+  "comparison": {
+    "overviewTitle": "ECC REDLINE Comparisons & Analysis",
+    "overviewDescription": "Side-by-side comparisons of ECC REDLINE with popular battle royale and tactical shooters including Blood Strike, Warzone, and Delta Force."
+  },
+  "characters": {
+    "overviewTitle": "ECC REDLINE Characters & Operators",
+    "overviewDescription": "Full roster breakdown of ECC REDLINE playable characters, operator roles, tactical abilities, and class synergies."
+  },
+  "controls": {
+    "overviewTitle": "ECC REDLINE Controls & Keybinds",
+    "overviewDescription": "Complete control layouts, gamepad and controller bindings, graphics performance optimization, and recommended game settings for ECC REDLINE."
+  },
+  "news": {
+    "overviewTitle": "ECC REDLINE News & Updates",
+    "overviewDescription": "Latest official announcements, patch notes, gameplay trailers, release date updates, and beta test news for ECC REDLINE."
+  },
+  "codes": {
+    "overviewTitle": "ECC REDLINE Codes & Rewards",
+    "overviewDescription": "Active redeem codes, promo gifts, and step-by-step instructions on how to claim free rewards in ECC REDLINE."
   }
 }

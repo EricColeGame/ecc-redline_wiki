@@ -237,39 +237,71 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
+  guide: "Guide",
+  mechanics: "Mechanics",
+  comparison: "Comparison",
+  characters: "Characters",
+  controls: "Controls",
+  news: "News",
   codes: "Codes",
-  guide: "Getting Started",
-  "tier-list": "Tier Lists",
 };
 
 // 日文分组标题映射
 const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
+  guide: "ガイド",
+  mechanics: "メカニクス",
+  comparison: "比較",
+  characters: "キャラクター",
+  controls: "操作設定",
+  news: "ニュース",
   codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
+};
+
+// 西班牙文分组标题映射
+const GROUP_TITLES_ES: Record<string, string> = {
+  guide: "Guías",
+  mechanics: "Mecánicas",
+  comparison: "Comparaciones",
+  characters: "Personajes",
+  controls: "Controles",
+  news: "Noticias",
+  codes: "Códigos",
+};
+
+// 德文分组标题映射
+const GROUP_TITLES_DE: Record<string, string> = {
+  guide: "Guides",
+  mechanics: "Mechaniken",
+  comparison: "Vergleiche",
+  characters: "Charaktere",
+  controls: "Steuerung",
+  news: "Neuigkeiten",
+  codes: "Codes",
 };
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
   ja: GROUP_TITLES_JA,
+  es: GROUP_TITLES_ES,
+  de: GROUP_TITLES_DE,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
   ja: "一覧",
+  es: "Resumen",
+  de: "Übersicht",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide",
+  "mechanics",
+  "comparison",
+  "characters",
+  "controls",
+  "news",
+  "codes",
 ];
 
 /**
