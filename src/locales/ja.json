@@ -1,1 +1,496 @@
-{}
+{
+  "site": {
+    "name": "ECC REDLINE Wiki",
+    "shortName": "ECC REDLINE",
+    "tagline": "マシン、攻略ガイド、ゲームプレイ＆レース戦略",
+    "description": "未来型超高速レースを極めるためのECC REDLINE攻略Wiki。マシンガイド、ドライビングテクニック、レース戦略、最新アップデート、コミュニティリソースをお届けします。",
+    "legalNotice": "非公式ファンWiki。プレイヤーによる、プレイヤーのためのサイトです。"
+  },
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "comparison": "Comparison",
+    "characters": "Characters",
+    "controls": "Controls",
+    "news": "News",
+    "codes": "Codes"
+  },
+  "home": {
+    "meta": {
+      "title": "ECC REDLINE Wiki — マシン、チューニング、攻略ガイド＆ティア表",
+      "description": "車両ダイナミクス、チューニング手順、ゲームモード、操作方法、交換コード、ティア表、対戦レース戦略を網羅したECC REDLINE総合攻略Wiki。"
+    },
+    "hero": {
+      "eyebrow": "近未来レースアクションゲーム",
+      "title": "ECC REDLINE Wiki",
+      "description": "ECC REDLINEは、超高速バトル、先進のマシン、緊迫のドライビング戦が繰り広げられる近未来レース体験です。攻略ガイド、マシン情報、アップデート、コミュニティ情報を探索しましょう。",
+      "stats": [
+        "総アクセス数",
+        "収録マシン数",
+        "有効コード数",
+        "毎日更新"
+      ],
+      "primaryCta": "マシンガイド",
+      "secondaryCta": "ゲームプレイのコツ",
+      "tertiaryCta": "有効なコード",
+      "videoLabel": "公式ゲームプレイ紹介"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "全ガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここからスタート",
+      "title": "ECC REDLINEの旅を始めよう",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "初レースから基礎的な車両物理、荷重移動ダイナミクス、スターターマシンの選択、必須テレメトリーを習得。"
+        },
+        {
+          "number": "2",
+          "title": "操作方法＆キー割り当て",
+          "description": "キーボードのフェザリング、アナログコントローラーの入力カーブ、ステアリング回転角度を最適化し、スナップオーバーステアを解消。"
+        },
+        {
+          "number": "3",
+          "title": "チューニング＆アップグレード",
+          "description": "初期ラップタイムを削るには、純粋な馬力よりもスポーツタイヤ、ブレーキ構成、車高調サスペンションのバランスを最優先。"
+        },
+        {
+          "number": "4",
+          "title": "有効コード＆報酬",
+          "description": "プロモーションコードやシーズン達成報酬を引き換えて、無料クレジット、性能マルチプライヤー、ガレージカスタムパーツを獲得。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "トレンド",
+      "quickLinks": [
+        "初心者ガイド",
+        "操作設定",
+        "ゲームモード",
+        "有効コード"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "初ラップから荷重移動の習得、スターターマシン選び、ゲーム進行まで必要な全情報を網羅。",
+          "href": "/guide/ecc-redline-beginner-guide"
+        },
+        {
+          "badge": "更新",
+          "title": "有効コード",
+          "description": "現在利用可能なプロモーションコード、報酬内容、クレジットバンドル、引き換え手順一覧。",
+          "href": "/codes/ecc-redline-codes"
+        },
+        {
+          "badge": "操作",
+          "title": "操作方法＆キー割り当て",
+          "description": "完全なキーボード割り当て、ゲームパッド配置、デッドゾーン感度調整ガイド。",
+          "href": "/controls/ecc-redline-controls"
+        },
+        {
+          "badge": "メカニクス",
+          "title": "ゲームモードガイド",
+          "description": "サーキットスプリント、タイムアタックトライアル、ドリフトバトル、サバイバルエリミネーションの解説。",
+          "href": "/mechanics/ecc-redline-game-modes"
+        },
+        {
+          "badge": "マシン",
+          "title": "マシン一覧",
+          "description": "駆動方式の比較、シャシー重量配分、各マシンのハンドリングプロファイル。",
+          "href": "/mechanics/ecc-redline-vehicles"
+        },
+        {
+          "badge": "チューニング",
+          "title": "武器＆ロードアウト",
+          "description": "兵器ティア、弾道リコイル制御、戦術エンゲージメント用ロードアウトの解説。",
+          "href": "/mechanics/ecc-redline-weapons"
+        },
+        {
+          "badge": "パイロット",
+          "title": "キャラクター一覧",
+          "description": "パイロットアーキタイプ、固有特性、キネティックブーストシナジー、ティアランキング。",
+          "href": "/characters/ecc-redline-characters"
+        },
+        {
+          "badge": "PC設定",
+          "title": "PCグラフィック＆パフォーマンス",
+          "description": "推奨ハードウェア基準、フレームペーシング最適化、遅延軽減、画面表示設定。",
+          "href": "/guide/ecc-redline-pc"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "ECC REDLINEとは？",
+      "paragraphs": [
+        "ECC REDLINEは、リアルな車両ダイナミクスと精密なテレメトリーフィードバックを追求するドライバー向けに設計された、過熱する対戦レーシング＆タクティカルアクションシミュレーターです。リニアな荷重移動、繊細な摩擦モデル、極限のレッドラインブースト管理により、すべてのコーナーで計算されたスロットル調整と瞬時のカウンターステアが求められます。",
+        "ガレージでのサスペンションキャンバー角微調整から、マルチクラスマシンによるサーキットスプリントやドリフトトライアルの攻略、最新の引き換えコードやパイロット環境ティアの調査まで、当Wikiでは包括的なセットアップガイド、テレメトリー解説、検証済みデータテーブルを提供します。"
+      ],
+      "stats": [
+        {
+          "label": "プラットフォーム",
+          "value": "PC / Steam"
+        },
+        {
+          "label": "ジャンル",
+          "value": "近未来レースアクション"
+        },
+        {
+          "label": "エンジン",
+          "value": "DirectX 12 / PhysX"
+        },
+        {
+          "label": "競技カテゴリー",
+          "value": "サーキット＆ドリフト"
+        },
+        {
+          "label": "パイロット",
+          "value": "マルチアーキタイプ"
+        },
+        {
+          "label": "トランスミッション",
+          "value": "AT / MT / クラッチ"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "ECC REDLINEを探索",
+      "description": "スタート戦略、車両セットアップ、パイロット特性、ゲームモード、プラットフォームガイドを詳細にチェック。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "ECC REDLINE 初心者ガイド",
+          "description": "対戦コースに挑む前に、マッチの流れ、車両テレメトリーの基礎、重量配分、序盤の資金稼ぎ戦略をマスター。",
+          "href": "/guide/ecc-redline-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "キーボードの細かな入力や調整済みゲームパッドトリガーでレスポンスの高い操作を設定"
+            },
+            {
+              "label": "2",
+              "detail": "制御が難しい大馬力マシンを避け、扱いやすいFWDまたはAWDのスターターマシンを選択"
+            },
+            {
+              "label": "3",
+              "detail": "過給機を載せる前に、ステージ1スポーツタイヤとストリートブレーキの強化を優先"
+            },
+            {
+              "label": "4",
+              "detail": "ターンイン前に直線でブレーキングし、クリッピングポイントに向けて抜き、脱出時にスムーズにアクセルを開ける"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "ECC REDLINE 武器＆ロードアウト",
+          "description": "実戦用銃器、弾道挙動メカニクス、リコイルコントロール、戦闘状況に応じた戦術ロードアウトのシナジーを解説。",
+          "href": "/mechanics/ecc-redline-weapons",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ライフル",
+              "detail": "中距離の交戦ラインに対応する適応力の高い汎用ARプラットフォーム"
+            },
+            {
+              "label": "SMG",
+              "detail": "至近距離のクリアリングに特化した高発射レートのコンパクト銃器"
+            },
+            {
+              "label": "DMR",
+              "detail": "長距離射線を制圧するための高精度マークスマンライフル"
+            },
+            {
+              "label": "サポート",
+              "detail": "チョークポイントを持続的に封鎖する重火力分隊支援火器"
+            },
+            {
+              "label": "サイドアーム",
+              "detail": "緊急時の武器切り替えを瞬時に行えるタクティカルハンドガン"
+            },
+            {
+              "label": "弾道学",
+              "detail": "リアルな弾速、弾道落下、連続射撃による集弾拡散の管理"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "ECC REDLINE アスリートガイド",
+          "description": "対戦パイロット一覧、個性的なアーキタイプの評価、固有特性を把握して連携の取れたスクワッドを編成。",
+          "href": "/characters/ecc-redline-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Vektor",
+              "detail": "スリップストリームを利用して爆発的なオーバードライブ加速を生み出すストライカー"
+            },
+            {
+              "label": "Nyx",
+              "detail": "鋭角の90度コーナーでも速度を落とさず駆け抜けるドリフトの名手"
+            },
+            {
+              "label": "Kane",
+              "detail": "被弾時に反応型キネティック突撃シールドを展開する重量級エンフォーサー"
+            },
+            {
+              "label": "Lyra",
+              "detail": "ライバルのエネルギーを吸収しながら味方のクールダウンを短縮する技術スペシャリスト"
+            },
+            {
+              "label": "Cipher",
+              "detail": "コース上のトラップや危険地帯を一時的な透過化ですり抜ける隠密工作員"
+            },
+            {
+              "label": "Stone",
+              "detail": "ルーキーでも扱いやすい安定したハンドリングを提供する万能オールラウンダー"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "ECC REDLINE ドライブ操作テクニック",
+          "description": "慣性フェイント、ブレーキタップピボット、マニュアルシフト、スリップストリームスリングショットなどの高等技術を習得。",
+          "href": "/mechanics/ecc-redline-gameplay",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "高速進入時に素早い逆ステアからの鋭い切り込みで慣性フェイントを発動"
+            },
+            {
+              "label": "2",
+              "detail": "ニュートラルスロットルで軽くブレーキを踏み、前輪荷重を作ってヘアピンをシャープに旋回"
+            },
+            {
+              "label": "3",
+              "detail": "低速コーナーでサイドブレーキを瞬間入力し、ドリフトアングルを微調整"
+            },
+            {
+              "label": "4",
+              "detail": "コーナー脱出時の加速を最大化するため、マニュアル変速で最適パワーバンドを維持"
+            },
+            {
+              "label": "5",
+              "detail": "エンジン回転数と温度計を監視し、オーバーヒート停止を起こさずブーストをフル解放"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "ECC REDLINE ティアリスト",
+          "description": "最高ラップタイム、ブースト効率、生存力を基準にパイロットと戦術ビルドを格付けした対戦ティア表。",
+          "href": "/characters/ecc-redline-characters",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Vektor-09 ＆ Nyx Vance — 圧倒的なスリップストリーム速度と失速知らずのドリフトアングル維持力"
+            },
+            {
+              "label": "A",
+              "detail": "Jaxom Kane ＆ Lyra Starlight — 強固なキネティックシールド、EMP吸収、安定した上位入賞力"
+            },
+            {
+              "label": "B",
+              "detail": "Marcus Brody ＆ Cipher-K — 特化型の体当たり突進力と障害物回避のすり抜け能力"
+            },
+            {
+              "label": "C",
+              "detail": "Tarek Stone — 挙動が素直で、基礎を固めるのに最適なバランス型ベース機体"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "ECC REDLINE ゲームモード",
+          "description": "競技レース形式、コースルール、参加グリッド数、スコアリング基準、テレメトリー要求の解説。",
+          "href": "/mechanics/ecc-redline-game-modes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "サーキットスプリント",
+              "detail": "8〜16台のマシンがスリップストリームを駆使して競い合う周回レース",
+              "badge": "競技"
+            },
+            {
+              "label": "タイムアタック",
+              "detail": "ミリ単位のレーシングラインとラップデータ追求に特化した単独ゴースト走行",
+              "badge": "ソロ"
+            },
+            {
+              "label": "ドリフトトライアル",
+              "detail": "途切れない横滑りコンボチェーンを維持してスコアを稼ぐスタイル勝負",
+              "badge": "スコア"
+            },
+            {
+              "label": "エリミネーション",
+              "detail": "タイマー終了ごとに最後尾のマシンが脱落していくサバイバル形式",
+              "badge": "サバイバル"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "ECC REDLINE 交換コード",
+          "description": "公式プロモーションコード、引き換え方法、報酬ティア、有効期限情報を確認して無料ボーナスをゲット。",
+          "href": "/codes/ecc-redline-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "REDLINE2026",
+              "detail": "ゲーム内キャッシュバンドルと初心者ガレージ用チューニングクレジットを獲得",
+              "badge": "有効"
+            },
+            {
+              "label": "BOOSTDRIVE",
+              "detail": "ドリフト名声2倍倍率とタイヤ摩耗軽減ボーナスを獲得",
+              "badge": "有効"
+            },
+            {
+              "label": "COMMUNITY50K",
+              "detail": "限定ネオンアンダーグローカスタムキットとパーツ引換券をアンロック",
+              "badge": "マイルストーン"
+            },
+            {
+              "label": "引き換え手順",
+              "detail": "メインHUDの設定またはコードメニューを開き、コードを正確に入力して確定",
+              "badge": "ガイド"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "ECC REDLINE 発売日＆対応プラットフォーム",
+          "description": "リリースロードマップ、テストフェーズ、PC動作環境、プラットフォーム展開情報を追跡。",
+          "href": "/guide/ecc-redline-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Steam PC",
+              "detail": "DirectX 12およびフルテレメトリー対応の主要ターゲットプラットフォーム"
+            },
+            {
+              "label": "テスト段階",
+              "detail": "ネットコード同期とタイヤモデルを検証するアルファ＆プレイテスト段階"
+            },
+            {
+              "label": "最小スペック",
+              "detail": "4コアCPU、4GB VRAM GPU、8GB RAM、高速SSDストレージ必須"
+            },
+            {
+              "label": "推奨スペック",
+              "detail": "6コア 3.8GHz以上CPU、8GB VRAM GPU、16GB RAM、NVMe M.2 SSD推奨"
+            },
+            {
+              "label": "ロードマップ",
+              "detail": "対戦コースやダイナミック天候を追加するローンチ後のシーズン拡張"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問 (FAQ)",
+      "description": "ECC REDLINEのメカニクス、ゲーム進行、操作方法に関するよくある質問と回答。",
+      "items": [
+        {
+          "question": "ECC REDLINEとはどんなゲームですか？",
+          "answer": "ECC REDLINEは、本格的な車両物理、荷重移動ダイナミクス、パイロット固有スキル、多彩なチューニング要素を備えた超高速対戦レーシング＆タクティカルアクションシミュレーターです。"
+        },
+        {
+          "question": "初心者は最初にどのマシンを選ぶべきですか？",
+          "answer": "初心者は、コンパクトハッチバックやエントリースポーツセダンなど、扱いやすい前輪駆動（FWD）または四輪駆動（AWD）のマシンを選ぶのがおすすめです。急なオーバーステアを起こしやすい高出力の後輪駆動車と比べ、減速時の挙動が非常に安定しています。"
+        },
+        {
+          "question": "マシンのチューニングやアップグレードはどのように進めるべきですか？",
+          "answer": "まずはステージ1のスポーツタイヤとストリートブレーキ、次に車高調サスペンションの導入という順序で進めましょう。シャシー剛性や足回りのバランスを整える前に過給機や極端な馬力アップを行うと、挙動が破綻してラップタイムが落ちる原因になります。"
+        },
+        {
+          "question": "ECC REDLINEでプロモコードを引き換えるにはどうすればいいですか？",
+          "answer": "メインHUDからゲーム内の設定またはプロモコードメニューを開き、入力欄にコードを正確に入力して送信すると、キャッシュ、パーツ、カスタムアイテムが即座に付与されます。"
+        },
+        {
+          "question": "対応しているコントローラーや周辺機器は何ですか？",
+          "answer": "標準的なメカニカルキーボード、アナログトリガー対応のゲームパッド、Direct-Driveハンコン（XInputおよびプラットフォームコントローラーマッピング経由）に対応しています。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "ECC REDLINEを極める準備はできましたか？",
+      "description": "超高速レースの基本からマシンのチューニング、実戦的なドライビング戦略まで、無料ガイドで徹底サポートします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "動画を見る"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効コード",
+    "updated": "更新日",
+    "viewAllCodes": "全コードを見る",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "ヘルプが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "ガイドはまだありません。近日公開予定です！"
+  },
+  "footer": {
+    "aboutTitle": "ECC REDLINE Wiki",
+    "about": "ECC REDLINE Wikiは、初心者からベテランドライバーまで役立つマシン性能、操作メカニクス、コース攻略、チューニングビルド、必須レース戦略を網羅した非公式ファン攻略ハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 ECC REDLINE Wiki. 非公式コミュニティWiki。",
+    "description": "近未来超高速レーシングアクションゲーム攻略Wiki。マシン、攻略、対戦レース戦略。",
+    "playGame": "動画を見る",
+    "officialDiscord": "Discordコミュニティ",
+    "officialYoutube": "YouTubeチャンネル",
+    "beginnerGuide": "初心者ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約",
+    "mechanicsGuides": "ゲームメカニクス",
+    "charactersGuides": "キャラクター＆オペレーター",
+    "controlsGuides": "操作方法＆設定"
+  },
+  "guide": {
+    "overviewTitle": "ECC REDLINE 攻略ガイド＆ウォークスルー",
+    "overviewDescription": "ECC REDLINEの初心者向け総合ガイド、ダウンロード手順、動作環境設定、基本テクニック。"
+  },
+  "mechanics": {
+    "overviewTitle": "ECC REDLINE ゲームメカニクス",
+    "overviewDescription": "戦闘システム、サバイバル要素、マシン操縦、ゲームモード、武器の取り扱いに関する詳細解説。"
+  },
+  "comparison": {
+    "overviewTitle": "ECC REDLINE 比較＆分析",
+    "overviewDescription": "Blood Strike、Warzone、Delta Forceなどの人気バトルロイヤルやタクティカルシューターとECC REDLINEの徹底比較。"
+  },
+  "characters": {
+    "overviewTitle": "ECC REDLINE キャラクター＆オペレーター",
+    "overviewDescription": "プレイ可能キャラクター、オペレーターの役割、戦術アビリティ、クラスシナジーの一覧。"
+  },
+  "controls": {
+    "overviewTitle": "ECC REDLINE 操作方法＆キー割り当て",
+    "overviewDescription": "キーボード操作一覧、ゲームパッド設定、グラフィック設定最適化、推奨ゲーム設定。"
+  },
+  "news": {
+    "overviewTitle": "ECC REDLINE ニュース＆アップデート",
+    "overviewDescription": "公式アナウンス、パッチノート、ゲームプレイトレーラー、リリース日程、ベータテスト情報。"
+  },
+  "codes": {
+    "overviewTitle": "ECC REDLINE 交換コード＆報酬",
+    "overviewDescription": "有効な引き換えコード、プロモーション特典、無料報酬の受け取り手順まとめ。"
+  }
+}

@@ -1,1 +1,496 @@
-{}
+{
+  "site": {
+    "name": "ECC REDLINE Wiki",
+    "shortName": "ECC REDLINE",
+    "tagline": "Vehículos, Guías, Jugabilidad y Estrategias de Carreras",
+    "description": "Explora ECC REDLINE Wiki con guías de vehículos, consejos de conducción, estrategias de carreras, actualizaciones y recursos comunitarios para dominar las carreras futuristas de alta velocidad.",
+    "legalNotice": "Wiki no oficial de fans. Creado por jugadores, para jugadores."
+  },
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "comparison": "Comparison",
+    "characters": "Characters",
+    "controls": "Controls",
+    "news": "News",
+    "codes": "Codes"
+  },
+  "home": {
+    "meta": {
+      "title": "ECC REDLINE Wiki — Vehículos, Mejoras, Guías y Tier Lists",
+      "description": "Wiki completa de ECC REDLINE con dinámica de vehículos, orden de mejoras, modos de juego, controles, códigos, listas de niveles y estrategias competitivas de carreras."
+    },
+    "hero": {
+      "eyebrow": "Juego de Carreras y Acción Futurista",
+      "title": "ECC REDLINE Wiki",
+      "description": "ECC REDLINE es una experiencia de carreras futurista centrada en la competición a gran velocidad, vehículos avanzados y combates al volante. Explora guías de juego, especificaciones de vehículos, novedades y recursos comunitarios.",
+      "stats": [
+        "Visitas Totales",
+        "Vehículos Disponibles",
+        "Códigos Activos",
+        "Actualizaciones Diarias"
+      ],
+      "primaryCta": "Guía de Vehículos",
+      "secondaryCta": "Consejos de Juego",
+      "tertiaryCta": "Códigos Activos",
+      "videoLabel": "Muestra Oficial de Jugabilidad"
+    },
+    "updates": {
+      "title": "Últimas Actualizaciones",
+      "browse": "Explorar Todas las Guías",
+      "viewAll": "Ver Todo"
+    },
+    "start": {
+      "eyebrow": "Comienza Aquí",
+      "title": "Tu Trayectoria en ECC REDLINE",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para Principiantes",
+          "description": "Domina la física básica de vehículos, la dinámica de transferencia de peso, la elección de coches iniciales y la telemetría esencial desde tu primera carrera."
+        },
+        {
+          "number": "2",
+          "title": "Controles y Asignación de Teclas",
+          "description": "Configura la pulsación fina en teclado, las curvas analógicas en mando y los grados de giro de volante para eliminar el sobreviraje brusco en curvas cerradas."
+        },
+        {
+          "number": "3",
+          "title": "Ajustes y Mejoras",
+          "description": "Prioriza compuestos de neumáticos deportivos, frenos de calle y suspensión roscada frente a la potencia bruta para mejorar tus primeros tiempos de vuelta."
+        },
+        {
+          "number": "4",
+          "title": "Códigos Activos y Recompensas",
+          "description": "Canjea códigos promocionales e hitos de temporada para obtener créditos gratis, multiplicadores de rendimiento y piezas de personalización para el garaje."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Tendencias Actuales",
+      "quickLinks": [
+        "Guía para Principiantes",
+        "Configuración de Controles",
+        "Modos de Juego",
+        "Códigos Activos"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para Principiantes",
+          "description": "Todo lo que necesitas desde tu primera vuelta hasta dominar la transferencia de peso, los coches iniciales y la progresión.",
+          "href": "/guide/ecc-redline-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Códigos Activos",
+          "description": "Todos los códigos promocionales funcionales con recompensas, paquetes de créditos e instrucciones de canje.",
+          "href": "/codes/ecc-redline-codes"
+        },
+        {
+          "badge": "Controles",
+          "title": "Controles y Asignación de Teclas",
+          "description": "Asignaciones completas de teclado, configuraciones de mando y calibración de zonas muertas.",
+          "href": "/controls/ecc-redline-controls"
+        },
+        {
+          "badge": "Mecánicas",
+          "title": "Guía de Modos de Juego",
+          "description": "Análisis de carreras en circuito, pruebas contrarreloj, batallas de drift y formatos de eliminación.",
+          "href": "/mechanics/ecc-redline-game-modes"
+        },
+        {
+          "badge": "Vehículos",
+          "title": "Lista de Vehículos",
+          "description": "Comparativa de tracciones, distribución de peso del chasis y perfiles de manejo para cada máquina.",
+          "href": "/mechanics/ecc-redline-vehicles"
+        },
+        {
+          "badge": "Mejoras",
+          "title": "Armas y Equipamientos",
+          "description": "Niveles de arsenal, gestión del retroceso balístico y configuraciones tácticas de combate.",
+          "href": "/mechanics/ecc-redline-weapons"
+        },
+        {
+          "badge": "Pilotos",
+          "title": "Lista de Personajes",
+          "description": "Arquetipos de pilotos, rasgos distintivos, sinergia de propulsión cinética y clasificación en tiers.",
+          "href": "/characters/ecc-redline-characters"
+        },
+        {
+          "badge": "Ajustes PC",
+          "title": "Gráficos y Rendimiento en PC",
+          "description": "Requisitos de hardware, optimización del frame pacing, reducción de latencia y configuración de pantalla.",
+          "href": "/guide/ecc-redline-pc"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es ECC REDLINE?",
+      "paragraphs": [
+        "ECC REDLINE es un simulador de carreras competitivas y acción táctica de alto octanaje diseñado para pilotos que buscan dinámicas de vehículos realistas y telemetría de máxima precisión. Con transferencia de peso progresiva, modelos de fricción minuciosos y una intensa gestión del turbo en la línea roja, cada curva exige una modulación de acelerador calculada y un contravolante en fracciones de segundo.",
+        "Ya sea ajustando la caída de la suspensión en el garaje, compitiendo con vehículos de varias categorías en circuitos cerrados y desafíos de derrape, o buscando los últimos códigos y el metajuego de pilotos, nuestra wiki comunitaria ofrece guías de configuración completas, análisis de telemetría y tablas de datos verificadas."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "PC / Steam"
+        },
+        {
+          "label": "Género",
+          "value": "Acción y Carreras Futuristas"
+        },
+        {
+          "label": "Motor",
+          "value": "DirectX 12 / PhysX"
+        },
+        {
+          "label": "Disciplina",
+          "value": "Circuito y Drift"
+        },
+        {
+          "label": "Pilotos",
+          "value": "Múltiples Arquetipos"
+        },
+        {
+          "label": "Transmisión",
+          "value": "Automática / Manual / Embrague"
+        }
+      ],
+      "cta": "Explorar Todas las Guías"
+    },
+    "explore": {
+      "title": "Explora ECC REDLINE",
+      "description": "Consulta análisis detallados sobre estrategias iniciales, configuraciones de vehículos, rasgos de pilotos, modos de juego y guías de plataforma.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para Principiantes de ECC REDLINE",
+          "description": "Domina el ritmo de las carreras, la telemetría básica, la distribución de peso y las estrategias para ganar dinero inicial antes de competir.",
+          "href": "/guide/ecc-redline-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Configura controles precisos con toques rápidos de teclado o gatillos calibrados de mando"
+            },
+            {
+              "label": "2",
+              "detail": "Elige un vehículo inicial equilibrado con tracción delantera (FWD) o total (AWD) frente a coches traseros inestables"
+            },
+            {
+              "label": "3",
+              "detail": "Prioriza neumáticos deportivos de Etapa 1 y frenos de calle antes de añadir turbocompresores"
+            },
+            {
+              "label": "4",
+              "detail": "Frena en línea recta antes de girar, suelta suavemente hacia el vértice y acelera progresivamente a la salida"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Armas y Equipamientos de ECC REDLINE",
+          "description": "Conoce las armas disponibles, la balística, el control de retroceso y las sinergias de equipamiento táctico en combates.",
+          "href": "/mechanics/ecc-redline-weapons",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Fusiles",
+              "detail": "Plataformas de asalto versátiles diseñadas para enfrentamientos a media distancia"
+            },
+            {
+              "label": "Subfusiles",
+              "detail": "Armas compactas de alta cadencia perfectas para el despeje de zonas cerradas"
+            },
+            {
+              "label": "Tirador",
+              "detail": "Fusiles de precisión adaptados para suprimir líneas de visión a larga distancia"
+            },
+            {
+              "label": "Apoyo",
+              "detail": "Ametralladoras pesadas de soporte continuo para bloqueo de pasos estrechos"
+            },
+            {
+              "label": "Secundarias",
+              "detail": "Pistolas tácticas de desenfunde rápido para cambios de emergencia"
+            },
+            {
+              "label": "Balística",
+              "detail": "Velocidad de proyectil realista, caída de bala y dispersión controlada por ráfagas"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de Pilotos y Atletas de ECC REDLINE",
+          "description": "Conoce a los pilotos de la plantilla, evalúa sus arquetipos únicos y aprovecha sus habilidades para crear equipos coordinados.",
+          "href": "/characters/ecc-redline-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Vektor",
+              "detail": "Piloto ofensivo que convierte el rebufo en una aceleración Overdrive explosiva"
+            },
+            {
+              "label": "Nyx",
+              "detail": "Maestra del derrape que mantiene la velocidad en curvas cerradas de noventa grados"
+            },
+            {
+              "label": "Kane",
+              "detail": "Defensor pesado que despliega escudos cinéticos reactivos al recibir impactos"
+            },
+            {
+              "label": "Lyra",
+              "detail": "Especialista técnica que drena energía rival mientras acelera enfriamientos de aliados"
+            },
+            {
+              "label": "Cipher",
+              "detail": "Agente sigiloso con intangibilidad temporal para eludir peligros del circuito"
+            },
+            {
+              "label": "Stone",
+              "detail": "Piloto versátil que ofrece un manejo predecible y consistente para novatos"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Técnicas de Conducción en ECC REDLINE",
+          "description": "Ejecuta técnicas avanzadas como balanceo de inercia, toque de freno, cambios manuales y aceleración por rebufo.",
+          "href": "/mechanics/ecc-redline-gameplay",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Inicia el balanceo de inercia a alta velocidad con un rápido contravolante antes de entrar en la curva"
+            },
+            {
+              "label": "2",
+              "detail": "Toca el freno en aceleración neutra para cargar peso delantero y girar con limpieza en horquillas"
+            },
+            {
+              "label": "3",
+              "detail": "Usa toques breves de freno de mano a baja velocidad para corregir el ángulo de derrape"
+            },
+            {
+              "label": "4",
+              "detail": "Mantén la marcha adecuada en cambio manual dentro de la banda de potencia para salir veloz de las curvas"
+            },
+            {
+              "label": "5",
+              "detail": "Controla las RPM y la temperatura del motor para liberar el turbo sin provocar averías por sobrecalentamiento"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Tier List de ECC REDLINE",
+          "description": "Clasificación competitiva de pilotos y configuraciones basada en tiempos de vuelta, rendimiento del turbo y supervivencia.",
+          "href": "/characters/ecc-redline-characters",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Vektor-09 y Nyx Vance — Velocidad insuperable a rebufo y retención total de inercia en derrapes"
+            },
+            {
+              "label": "A",
+              "detail": "Jaxom Kane y Lyra Starlight — Gran resistencia con escudos cinéticos, drenaje EMP y podios frecuentes"
+            },
+            {
+              "label": "B",
+              "detail": "Marcus Brody y Cipher-K — Gran potencia de choque pesado y evasión intangible de obstáculos"
+            },
+            {
+              "label": "C",
+              "detail": "Tarek Stone — Plataforma equilibrada y predecible para aprender los fundamentos sin sobresaltos"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Modos de Juego de ECC REDLINE",
+          "description": "Formatos de carreras, reglas de pista, número de vehículos en parrilla, criterios de puntuación y exigencias de telemetría.",
+          "href": "/mechanics/ecc-redline-game-modes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Circuito Sprint",
+              "detail": "De 8 a 16 pilotos compitiendo por posición en varias vueltas aprovechando el rebufo",
+              "badge": "Competitivo"
+            },
+            {
+              "label": "Contrarreloj",
+              "detail": "Pruebas en solitario contra fantasmas enfocadas en trazadas milimétricas y datos de vuelta",
+              "badge": "En solitario"
+            },
+            {
+              "label": "Prueba de Drift",
+              "detail": "Evaluación de estilo y acumulación de derrape premiando cadenas de combos continuos",
+              "badge": "Puntuación"
+            },
+            {
+              "label": "Eliminación",
+              "detail": "Formato de supervivencia donde el último coche queda fuera al agotarse el cronómetro",
+              "badge": "Supervivencia"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Códigos de ECC REDLINE",
+          "description": "Códigos promocionales oficiales, pasos para canjearlos, recompensas y fechas de validez para conseguir extras gratis.",
+          "href": "/codes/ecc-redline-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "REDLINE2026",
+              "detail": "Consigue un paquete de dinero en el juego y créditos de mejora para tu garaje",
+              "badge": "Activo"
+            },
+            {
+              "label": "BOOSTDRIVE",
+              "detail": "Canjea para obtener un multiplicador doble de reputación en drift y menor desgaste",
+              "badge": "Activo"
+            },
+            {
+              "label": "COMMUNITY50K",
+              "detail": "Desbloquea kit exclusivo de neón bajo chasis y cupón para componentes",
+              "badge": "Hito"
+            },
+            {
+              "label": "Paso de canje",
+              "detail": "Abre Ajustes o el menú de Códigos desde la interfaz, escribe el código exacto y confirma",
+              "badge": "Guía"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Lanzamiento y Plataformas de ECC REDLINE",
+          "description": "Consulta la hoja de ruta de estreno, fases de prueba, requisitos de PC y plataformas disponibles.",
+          "href": "/guide/ecc-redline-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Steam PC",
+              "detail": "Plataforma principal de lanzamiento con soporte para DirectX 12 y telemetría completa"
+            },
+            {
+              "label": "Fase de Prueba",
+              "detail": "Hitos de alfa y pruebas comunitarias para validar el código de red y modelos de neumáticos"
+            },
+            {
+              "label": "Mínimos",
+              "detail": "CPU de 4 núcleos, GPU de 4 GB VRAM, 8 GB RAM y almacenamiento SSD rápido"
+            },
+            {
+              "label": "Recomendados",
+              "detail": "CPU de 6 núcleos a 3.8GHz+, GPU de 8 GB VRAM, 16 GB RAM y SSD NVMe M.2"
+            },
+            {
+              "label": "Hoja de Ruta",
+              "detail": "Expansiones de temporada tras el lanzamiento con nuevos circuitos y clima dinámico"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "description": "Respuestas rápidas a las dudas más comunes sobre mecánicas, progresión y controles en ECC REDLINE.",
+      "items": [
+        {
+          "question": "¿Qué es ECC REDLINE?",
+          "answer": "ECC REDLINE es un simulador de carreras competitivas y acción táctica a gran velocidad que destaca por su física de vehículos auténtica, dinámica de transferencia de peso, habilidades de pilotos y opciones avanzadas de personalización."
+        },
+        {
+          "question": "¿Qué coche inicial deberían elegir los principiantes en ECC REDLINE?",
+          "answer": "Se recomienda empezar con vehículos equilibrados de tracción delantera (FWD) o tracción total (AWD), como compactos y berlinas deportivas de inicio. Ofrecen una conducción predecible y gran estabilidad en frenada, evitando los derrapes incontrolados de los coches de propulsión trasera."
+        },
+        {
+          "question": "¿Cómo funcionan las mejoras y ajustes de vehículos en ECC REDLINE?",
+          "answer": "Sigue un orden de mejora progresivo: primero neumáticos deportivos de Etapa 1 y frenos de calle, seguidos de suspensión regulable. Añadir turbos o demasiada potencia sin equilibrar el chasis genera pérdidas de control y peores tiempos por vuelta."
+        },
+        {
+          "question": "¿Cómo canjeo códigos promocionales en ECC REDLINE?",
+          "answer": "Dirígete al menú de Ajustes o Códigos desde la pantalla principal, escribe el código exacto en el campo correspondiente y confirma para recibir dinero, piezas o artículos estéticos de inmediato."
+        },
+        {
+          "question": "¿Qué mandos y periféricos son compatibles con ECC REDLINE?",
+          "answer": "Es compatible con teclados mecánicos estándar, mandos modernos con gatillos analógicos sensibles y volantes Direct-Drive mediante compatibilidad nativa con XInput y perfiles de mando."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para Dominar ECC REDLINE?",
+      "description": "Desde los fundamentos de carreras a gran velocidad hasta el ajuste fino de vehículos y estrategias competitivas, nuestra wiki comunitaria te ofrece guías gratuitas completas.",
+      "primary": "Leer Guía para Principiantes",
+      "secondary": "Ver Muestra"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la Wiki",
+    "activeCodes": "Códigos Activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de Contenidos",
+    "nextSteps": "Siguientes Pasos",
+    "needHelp": "¿Necesitas Ayuda?",
+    "relatedReading": "Lecturas Relacionadas",
+    "relatedGuides": "Guías Relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios Oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "ECC REDLINE Wiki",
+    "about": "ECC REDLINE Wiki es un centro de guías independiente creado por la comunidad que cubre especificaciones de vehículos, mecánicas de conducción, trazados, reglajes y estrategias esenciales de carreras tanto para novatos como para pilotos veteranos.",
+    "quickLinks": "Enlaces Rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 ECC REDLINE Wiki. Wiki comunitaria no oficial.",
+    "description": "Wiki del juego de acción y carreras futuristas de alta velocidad. Vehículos, guías y estrategias competitivas.",
+    "playGame": "Ver Muestra",
+    "officialDiscord": "Comunidad de Discord",
+    "officialYoutube": "Canal de YouTube",
+    "beginnerGuide": "Guía para Principiantes",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos de Servicio",
+    "mechanicsGuides": "Mecánicas del Juego",
+    "charactersGuides": "Personajes y Operadores",
+    "controlsGuides": "Controles y Ajustes"
+  },
+  "guide": {
+    "overviewTitle": "Guías y Tutoriales de ECC REDLINE",
+    "overviewDescription": "Guías completas para principiantes, pasos de instalación, configuración de plataformas y consejos clave para ECC REDLINE."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Juego de ECC REDLINE",
+    "overviewDescription": "Análisis exhaustivo del sistema de combate, supervivencia en battle royale, pilotaje de vehículos, modos de juego y manejo de armas en ECC REDLINE."
+  },
+  "comparison": {
+    "overviewTitle": "Comparativas y Análisis de ECC REDLINE",
+    "overviewDescription": "Comparativas detalladas de ECC REDLINE frente a shooters tácticos y battle royale populares como Blood Strike, Warzone y Delta Force."
+  },
+  "characters": {
+    "overviewTitle": "Personajes y Operadores de ECC REDLINE",
+    "overviewDescription": "Plantilla completa de personajes jugables de ECC REDLINE, roles de operadores, habilidades tácticas y sinergias de clase."
+  },
+  "controls": {
+    "overviewTitle": "Controles y Configuración de ECC REDLINE",
+    "overviewDescription": "Esquemas completos de controles, asignaciones para mando, optimización gráfica y ajustes recomendados para ECC REDLINE."
+  },
+  "news": {
+    "overviewTitle": "Noticias y Actualizaciones de ECC REDLINE",
+    "overviewDescription": "Últimos anuncios oficiales, notas de parches, avances de jugabilidad, fechas de lanzamiento y novedades sobre pruebas beta de ECC REDLINE."
+  },
+  "codes": {
+    "overviewTitle": "Códigos y Recompensas de ECC REDLINE",
+    "overviewDescription": "Códigos de canje activos, regalos promocionales e instrucciones detalladas para conseguir recompensas gratuitas en ECC REDLINE."
+  }
+}
