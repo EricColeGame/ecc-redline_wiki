@@ -9,8 +9,8 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "ECC REDLINE Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete ECC REDLINE guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "ECC REDLINE Wiki — Vehicles, Tuning, Guides & Tier Lists",
+      "description": "Comprehensive ECC REDLINE wiki featuring vehicle dynamics, tuning orders, game modes, controls, codes, tier lists, and competitive racing strategies."
     },
     "hero": {
       "eyebrow": "Futuristic Racing Action Game",
@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master foundational vehicle physics, weight transfer dynamics, starter car selection, and essential telemetry from your very first race."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Controls & Keybindings",
+          "description": "Configure optimal keyboard feathering, analog gamepad curves, and wheel rotation settings to eliminate snap oversteer on tight corners."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Tuning & Upgrades",
+          "description": "Prioritize sports tire compounds, brake assemblies, and coilover suspension balance over raw horsepower to dominate early lap times."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in ECC REDLINE."
+          "title": "Active Codes & Rewards",
+          "description": "Redeem promotional codes and seasonal milestones for free credit boosts, performance multipliers, and garage customization parts."
         }
       ]
     },
@@ -62,237 +62,329 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Controls Setup",
+        "Game Modes",
+        "Active Codes"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first lap to mastering weight transfer, starter cars, and progression.",
+          "href": "/guide/ecc-redline-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "All working promotional codes with rewards, credit bundles, and redemption instructions.",
+          "href": "/codes/ecc-redline-codes"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Controls",
+          "title": "Controls & Keybindings",
+          "description": "Complete keyboard bindings, gamepad layout configs, and deadzone sensitivity calibration.",
+          "href": "/controls/ecc-redline-controls"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Mechanics",
+          "title": "Game Modes Guide",
+          "description": "Circuit sprints, time attack trials, drift battles, and elimination format breakdowns.",
+          "href": "/mechanics/ecc-redline-game-modes"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Vehicles",
+          "title": "Vehicle Roster",
+          "description": "Drivetrain comparisons, chassis weight distribution, and handling profiles for every machine.",
+          "href": "/mechanics/ecc-redline-vehicles"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Tuning",
+          "title": "Weapons & Loadouts",
+          "description": "Arsenal tiers, ballistic recoil management, and tactical engagement loadouts.",
+          "href": "/mechanics/ecc-redline-weapons"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Pilots",
+          "title": "Character Roster",
+          "description": "Pilot archetypes, signature traits, kinetic boost synergy, and tier rankings.",
+          "href": "/characters/ecc-redline-characters"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "PC Setup",
+          "title": "PC Graphics & Performance",
+          "description": "Target hardware baselines, frame pacing tweaks, latency reduction, and display settings.",
+          "href": "/guide/ecc-redline-pc"
         }
       ]
     },
     "aboutGame": {
       "title": "What is ECC REDLINE?",
       "paragraphs": [
-        "ECC REDLINE is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "ECC REDLINE is a high-octane competitive racing and tactical action simulator engineered for drivers who crave authentic vehicle dynamics and razor-sharp telemetry feedback. Featuring progressive weight transfer, nuanced friction models, and high-intensity redline boost management, every corner demands calculated throttle modulation and split-second counter-steering.",
+        "Whether you are fine-tuning suspension camber in the garage, pushing multi-class machinery across competitive circuit sprint and drift trials, or hunting the latest redemption codes and pilot meta tiers, our community wiki provides comprehensive setup guides, telemetry breakdowns, and verified data tables."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
-        },
-        {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC / Steam"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Futuristic Racing Action"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Engine",
+          "value": "DirectX 12 / PhysX"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Discipline",
+          "value": "Circuit & Drift"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Pilots",
+          "value": "Multi-Archetype"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Transmission",
+          "value": "Auto / Manual / Clutch"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore ECC REDLINE Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore ECC REDLINE",
+      "description": "Browse comprehensive breakdowns across starter strategies, vehicle setups, pilot traits, game modes, and platform guides.",
       "modules": [
         {
           "order": 1,
-          "name": "ECC REDLINE Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/ECC REDLINE-codes",
-          "displayType": "code-box",
+          "name": "ECC REDLINE Beginner Guide",
+          "description": "Master match flow, vehicle telemetry basics, weight distribution, and early cash generation strategies before hitting competitive asphalt.",
+          "href": "/guide/ecc-redline-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Configure responsive bindings on keyboard feathering or calibrated gamepad triggers"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Select a balanced FWD or AWD starter vehicle over uncontrollable high-horsepower platforms"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Prioritize Stage 1 sport tire compounds and street brakes before adding forced induction"
+            },
+            {
+              "label": "4",
+              "detail": "Brake straight before turn-in, trail off toward the apex, and squeeze throttle cleanly on exit"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/ECC REDLINE-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "ECC REDLINE Weapons and Loadouts",
+          "description": "Explore operational firearms, ballistic handling mechanics, recoil control, and tactical loadout synergies across combat engagements.",
+          "href": "/mechanics/ecc-redline-weapons",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Rifles",
+              "detail": "Versatile AR platforms engineered for adaptable mid-range line combat"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "SMGs",
+              "detail": "High-cadence compact firearms built for close-quarters room clearing"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "DMRs",
+              "detail": "Precision marksman rifles tailored for long-distance sightline suppression"
+            },
+            {
+              "label": "Support",
+              "detail": "Heavy support machine guns delivering continuous choke point area denial"
+            },
+            {
+              "label": "Sidearms",
+              "detail": "Rapid-draw tactical sidearms designed for seamless emergency weapon swaps"
+            },
+            {
+              "label": "Ballistics",
+              "detail": "Authentic projectile velocity, bullet drop, and progressive bloom management"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/ECC REDLINE-tier-list",
-          "displayType": "tier-grid",
+          "name": "ECC REDLINE Athletes Guide",
+          "description": "Meet the competitive pilot roster, evaluate unique archetypes, and master signature traits to build synchronized squad rosters.",
+          "href": "/characters/ecc-redline-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Vektor",
+              "detail": "Striker pilot converting slipstream draft into explosive Overdrive speed"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Nyx",
+              "detail": "Drift maestro maintaining near-complete velocity through sharp 90-degree apexes"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Kane",
+              "detail": "Juggernaut enforcer deploying reactive kinetic ramming shields under fire"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Lyra",
+              "detail": "Technician specialist siphoning competitor energy while speeding cooldowns"
+            },
+            {
+              "label": "Cipher",
+              "detail": "Stealth operative triggering brief intangibility to bypass track hazards"
+            },
+            {
+              "label": "Stone",
+              "detail": "Balanced all-rounder providing predictable handling for rookie racers"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/ECC REDLINE-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "ECC REDLINE Movement Guide",
+          "description": "Execute advanced racing and mobility techniques including inertia feints, brake-tap pivots, manual shifting, and slipstream slingshots.",
+          "href": "/mechanics/ecc-redline-gameplay",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Initiate inertia feints at high speed with a rapid counter-steer flick followed by sharp turn-in"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Tap the brake on neutral throttle to load front axle traction and pivot cleanly through hairpins"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Feather the handbrake during low-speed corners to initiate controlled drift angle correction"
+            },
+            {
+              "label": "4",
+              "detail": "Hold manual transmission gear selection inside the optimal powerband for fast corner exits"
+            },
+            {
+              "label": "5",
+              "detail": "Monitor engine RPM and thermal thresholds to unleash boost without triggering an overheat stall"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/ECC REDLINE-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "ECC REDLINE Tier List",
+          "description": "Comprehensive competitive tier ranking evaluating pilots and tactical builds based on lap-time ceiling, boost economy, and survivability.",
+          "href": "/characters/ecc-redline-characters",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "S",
+              "detail": "Vektor-09 & Nyx Vance — Top-tier slipstream velocity and frictionless drift angle retention"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "A",
+              "detail": "Jaxom Kane & Lyra Starlight — Resilient kinetic shielding, EMP drain, and consistent podium control"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "B",
+              "detail": "Marcus Brody & Cipher-K — Specialized heavy ramming force and intangibility hazard evasion"
+            },
+            {
+              "label": "C",
+              "detail": "Tarek Stone — Balanced baseline platform suited for learning fundamentals without volatility"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/ECC REDLINE-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "ECC REDLINE Game Modes",
+          "description": "Breakdown of competitive race formats, track rules, vehicle grid sizes, scoring criteria, and telemetry demands.",
+          "href": "/mechanics/ecc-redline-game-modes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Circuit Sprint",
+              "detail": "8–16 Racers competing for position across multi-lap tracks with aerodynamic slipstreams",
+              "badge": "Competitive"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Time Attack",
+              "detail": "Solo ghost vehicle sessions focused on millimeter-perfect racing lines and lap telemetry",
+              "badge": "Solo"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Drift Trial",
+              "detail": "Style and slip-angle accumulation trials rewarding uninterrupted lateral combo chains",
+              "badge": "Scoring"
+            },
+            {
+              "label": "Elimination",
+              "detail": "High-pressure survival format eliminating the last-place vehicle when timers expire",
+              "badge": "Survival"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "ECC REDLINE Codes",
+          "description": "Official promotional codes, redemption instructions, reward tiers, and expiration guidelines to claim free garage bonuses.",
+          "href": "/codes/ecc-redline-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "REDLINE2026",
+              "detail": "Claim free in-game cash bundle and starter garage tuning credits",
+              "badge": "Active"
+            },
+            {
+              "label": "BOOSTDRIVE",
+              "detail": "Redeem for 2x drift reputation multiplier and tire wear bonus",
+              "badge": "Active"
+            },
+            {
+              "label": "COMMUNITY50K",
+              "detail": "Unlocks exclusive neon underglow customization kit and parts voucher",
+              "badge": "Milestone"
+            },
+            {
+              "label": "Redeem Step",
+              "detail": "Open Settings or Codes menu from main HUD, paste exact code, and confirm claim",
+              "badge": "Guide"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "ECC REDLINE Release and Platforms",
+          "description": "Track launch roadmaps, testing phases, PC system requirements, and platform availability announcements.",
+          "href": "/guide/ecc-redline-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Steam PC",
+              "detail": "Primary target release platform featuring DirectX 12 and full telemetry support"
+            },
+            {
+              "label": "Test Phase",
+              "detail": "Alpha and playtest milestones validating netcode synchronization and tire models"
+            },
+            {
+              "label": "Min Specs",
+              "detail": "Quad-core CPU, 4 GB VRAM GPU, 8 GB RAM, and high-speed SSD storage required"
+            },
+            {
+              "label": "Rec Specs",
+              "detail": "Hexa-core 3.8GHz+ CPU, 8 GB VRAM GPU, 16 GB RAM, and NVMe M.2 SSD recommended"
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Post-launch seasonal expansions adding competitive circuits and dynamic weather"
             }
           ]
         }
@@ -300,34 +392,34 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about ECC REDLINE.",
+      "description": "Quick answers to the most common questions about ECC REDLINE mechanics, progression, and controls.",
       "items": [
         {
           "question": "What is ECC REDLINE?",
-          "answer": "ECC REDLINE is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "ECC REDLINE is a high-speed competitive racing and tactical action simulator featuring authentic vehicle physics, progressive weight transfer dynamics, pilot archetype skills, and customizable tuning options."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Which starter car should beginners choose in ECC REDLINE?",
+          "answer": "Beginners should prioritize balanced front-wheel drive (FWD) or all-wheel drive (AWD) vehicles like compact hatchbacks and entry sport sedans. These platforms offer predictable handling and stability under braking, unlike high-power rear-wheel drive cars that easily snap oversteer."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do vehicle tuning upgrades work in ECC REDLINE?",
+          "answer": "Follow a disciplined upgrade order focusing on Stage 1 sport tires and street brake assemblies first, followed by coilover suspension. Adding forced induction or extreme horsepower before improving chassis balance results in uncontrollable handling and slower lap times."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do I redeem promo codes in ECC REDLINE?",
+          "answer": "Navigate to the in-game Settings or Promo Codes menu from your primary HUD, enter the exact code into the redemption text field, and submit to instantly receive cash boosts, tuning items, or cosmetic rewards."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What controllers and peripherals are supported in ECC REDLINE?",
+          "answer": "ECC REDLINE supports standard mechanical keyboards, modern gamepads with analog trigger modulation, and direct-drive racing wheels via native XInput and platform controller translation frameworks."
         }
       ]
     },
     "finalCta": {
       "title": "Ready to Master ECC REDLINE?",
       "description": "From high-speed racing fundamentals to vehicle tuning and competitive driving strategies, our community wiki has you covered with free guides.",
-      "primary": "Read the Guide",
+      "primary": "Read Beginner Guide",
       "secondary": "Watch Showcase"
     }
   },
